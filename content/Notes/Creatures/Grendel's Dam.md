@@ -1,2 +1,0 @@
-![[Grendel's Mother-20240209065527376.jpg]]
-After Beowulf defeats Grendel, his mother seeks revenge by attacking Heorot and killing one of Hrothgar's closest advisors. Beowulf ventures into her underwater lair to confront her.

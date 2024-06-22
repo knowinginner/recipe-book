@@ -1,1 +1,0 @@
-A Danish warrior who initially doubts Beowulf's abilities and engages in verbal sparring with him before Beowulf's confrontation with Grendel. Unferth later lends Beowulf his sword for the battle with Grendel's mother, symbolizing a shift in his attitude toward the Geatish hero.

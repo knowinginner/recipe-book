@@ -1,1 +1,0 @@
-A loyal thane and kinsman of Beowulf, Wiglaf plays a crucial role in the final battle against the dragon. He remains steadfast by Beowulf's side, demonstrating qualities of bravery and honor.
