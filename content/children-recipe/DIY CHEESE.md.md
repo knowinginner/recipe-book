@@ -14,7 +14,7 @@ image:
 caption: Image credit - [Pexel - Konstantin Klimov](https://www.pexels.com/photo/cottage-cheese-on-plates-and-a-bowl-of-sour-cream-11281331/)
 ---
 # DIY CHEESE FROM MILK AND LEMON
-![Pexel - Konstantin Klimov](DIY%20CHEESE.md-20240622145611685.webp "Image credit - [Pexel - Konstantin Klimov](https://www.pexels.com/photo/cottage-cheese-on-plates-and-a-bowl-of-sour-cream-11281331/)")
+![Pexel - Konstantin Klimov](DIY%20CHEESE.md-20240622145611685.webp)
 *Image credit - [Pexel - Konstantin Klimov](https://www.pexels.com/photo/cottage-cheese-on-plates-and-a-bowl-of-sour-cream-11281331/)*
 > How can you tell someone's new to DIY cheese making? They keep asking, "Whey is this taking so long?" - *Unknown*
 ## Allergens:

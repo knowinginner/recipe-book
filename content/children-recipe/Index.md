@@ -1,11 +1,9 @@
 ---
 longform:
   format: scenes
-  title: recipe-book
+  title: children-recipe
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - DIY CHEESE
-    - SOY BEAN SPROUT
+  scenes: []
   ignoredFiles: []
 ---
