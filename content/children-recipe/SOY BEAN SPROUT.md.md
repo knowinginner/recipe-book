@@ -1,5 +1,5 @@
 ---
-title: 🧩 SOY BEAN SPROUT
+title: SOY BEAN SPROUT
 description: 
 summary: 
 date: 2023-10-12T00:00:00Z

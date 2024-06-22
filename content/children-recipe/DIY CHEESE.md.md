@@ -1,5 +1,5 @@
 ---
-title: 🧩 DIY CHEESE
+title: DIY CHEESE
 description: 
 summary: 
 date: 2023-10-12T00:00:00Z
