@@ -4,6 +4,9 @@ longform:
   title: children-recipe
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - DIY CHEESE.md
+    - SOY BEAN SPROUT.md
+    - Scrambled egg
   ignoredFiles: []
 ---
