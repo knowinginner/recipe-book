@@ -93,3 +93,4 @@ Remember, this cheese is best eaten fresh within a day or two.
 * You can add to milk herbs, raising, olives, sesame or other seed to add flavor
 * You can add food colorant to make your cheese the color you like.
 This is a simple recipe to get you started on your cheese making journey. There are many other types of cheese you can explore with an adult's help!
+### [Scrambled egg](Scrambled%20egg.md)

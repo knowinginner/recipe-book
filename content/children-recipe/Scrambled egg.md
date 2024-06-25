@@ -67,4 +67,5 @@ Image credit - [Ideogram - Faust](https://ideogram.ai/assets/image/lossless/resp
 ## Option:
 * Add on top of the egg spices such as sweet paprika or cut herbs such as thyme, rosemary, parsley, chives, cilantro, dill, basil, oregano or sage.
 * Add on top of the egg small tomatoes, nuts or other ingredients.
-* You can use food colorant to make the eggs color you like and observe how does it affect your apetite.
+* You can use food colorant to make the eggs color you like and observe how does it affect your appetite.
+### [DIY Cheese](DIY%20Cheese.md), [Soy bean sprout](Soy%20bean%20sprout.md)
