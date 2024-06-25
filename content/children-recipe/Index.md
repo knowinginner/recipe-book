@@ -8,6 +8,7 @@ longform:
     - DIY Cheese
     - Soy bean sprout
     - Scrambled egg
+    - Chapati - Flat bread
   ignoredFiles:
     - manuscript
 ---
