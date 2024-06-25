@@ -19,7 +19,7 @@ caption: Image credit - [Pexel Photo by cottonbro studio](https://www.pexels.com
 ---
 ![making a toast](toast.webp)
 *Image credit - [Pexel Photo by cottonbro studio](https://www.pexels.com/photo/mother-and-daughter-making-a-sandwich-6651727/)*
-> "Flipping pancakes is like life: you gotta be ready for anything to come flying back at you." - *Anonymous*
+> "Can I have my toast cut into a dinosaur shape with a volcano of jam in the middle?" - *Anonymous*
 ## Story: Burned toast
 Barnaby the Beagle had a nose for adventure, and his breakfast was no exception. Every morning, he'd watch with eager puppy eyes as his human, Emily, made toast. The aroma of warm bread filled the kitchen, driving Barnaby wild. Today, however, Emily was lost in a daydream, picturing herself as a daring pirate captain.
 "Ahoy, mateys!" she declared, forgetting the toast entirely. Barnaby's tail thumped against the floor in frustration. The smell of toast was getting stronger, and his tummy rumbled like a pirate ship caught in a storm.
@@ -37,7 +37,7 @@ She retrieved a fresh slice of bread, popped it in the toaster (with a watchful 
 
 ![Image credit - Pexel - cottonbro studio](pexels-cottonbro-6651178.webp "[Image credit - Pexel - cottonbro studio](https://www.pexels.com/photo/two-girls-making-jam-sandwiches-6651178/)")
 
-> "They say practice makes perfect. Well, then my pancakes are a testament to my unwavering commitment to imperfection." - *Anonymous*
+> - "Ew, my toast is burnt! Did it fall asleep in the fire?" - *Anonymous*
 ## Ingredients:
 * Bread
 * Olive oil (Butter, Margarine or Creamy cheese)

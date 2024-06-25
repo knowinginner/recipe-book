@@ -20,7 +20,7 @@ caption: Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/
 # Scrambled eggs
 ![](scarmled-eggs.webp)
 *Image credit [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/QiSPITRlQLuFYWTKbMI0IA)*
-> "'See, I told you centrifugal force would make it fly!' - A child who clearly misunderstood science class, but having fun anyway. - *Unknown*
+> - "Ew, my eggs look like scrambled brains! Are they gonna make me smarter?" - *Unknown*
 ## Allergens:
 - Eggs
 - Milk
@@ -36,7 +36,7 @@ Maisie's eyes sparkled. She practiced spinning more eggs, giggling as some wobbl
 
 ---
 ![egg-spin.webp](egg-spin.webp "Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/Halyc7i9SeiKCpNGUzUg_A)")Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/Halyc7i9SeiKCpNGUzUg_A)
-> "'I bet nobody else at school can make their egg spin for a whole minute!' - A competitive child, already planning their bragging rights." - *Unknown*
+> "I'm gonna build a scrambled egg castle fit for a king (or queen)! Can I use toast for the walls?" - *Unknown*
 ## Recipe for Microwave Scrambled Eggs
 ## Ingredients:
 * 1 large egg per child

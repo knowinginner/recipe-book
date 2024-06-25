@@ -19,7 +19,8 @@ series:
 image: 
 caption: Image credit - [Pexel - Daisy Anderson](https://www.pexels.com/photo/carved-potatoes-in-a-ceramic-tray-5581083/)
 ---
-
+![](potato1-spud.webp)
+*Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/UvuuPXaAQL-Gmnov4spGjQ)*
 ## Allergens: 
 - potato, 
 - butter, 
@@ -43,8 +44,8 @@ From that day on, Max still helped with dinner, but he always let his mom handle
 
 ---
 
-![Image credit - Pexel - Maria Orlova](pexels-orlovamaria-4947359.webp "[Image credit - Pexel - Maria Orlova](https://www.pexels.com/photo/delicious-baked-potatoes-with-greenery-4947359/)")
-
+![](potato-spud.webp)
+*Image credit - [Pexel - Daisy Anderson](https://www.pexels.com/photo/carved-potatoes-in-a-ceramic-tray-5581083/)*
 > "Life hack: add a wet paper towel to your microwave potato. It won't give you superpowers, but it might prevent a potato explosion." - *Anonymous*
 ## Super Spud Surprise: Microwave Potato in Minutes!
 Calling all junior chefs! Today, we're making a super quick and easy side dish – a **Super Spud Surprise** in the microwave! This potato cooks up in minutes and is perfect for a hungry tummy after a day of playing.

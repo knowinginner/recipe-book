@@ -21,7 +21,7 @@ caption: Image credit - [Pexel - Sandra Filipe](https://www.pexels.com/photo/bre
 ---
 ![](chapati.jpeg)
 *Image credit [ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/MhbRSBo4S2WbNkRCHWHm3w)*
-> "Flipping pancakes is like life: you gotta be ready for anything to come flying back at you." - *Anonymous*
+> - "This chapati is bigger than my head! How am I supposed to eat it all?" - *Anonymous*
 ## Story: Timmy making Chapati
 Once upon a time, there lived a curious little boy named Timmy. He loved spending time with his grandmother, who always seemed to be cooking up something delicious in the kitchen. One day, as the sun shone brightly through the window, Timmy watched as his grandmother skillfully kneaded dough for chapatis, the soft flour clouding the air as she worked.
 Timmy was fascinated. He asked, "Grandma, can I try? I want to learn how to make fluffy chapatis like yours!" With a twinkle in her eye, Grandma smiled and replied, "Of course, my dear. The secret to perfect chapatis is all in the kneading."
@@ -35,8 +35,7 @@ So, remember, just like Timmy, you too can turn your passions and skills into so
 
 ![Pexel - Meruyert Gonullu](pexels-meruyert-gonullu-8290886.webp "[Image credit - Pexel - Meruyert Gonullu](https://www.pexels.com/photo/a-bot-standing-at-the-table-8290886/)")
 [Image credit - Pexel - Meruyert Gonullu](https://www.pexels.com/photo/a-bot-standing-at-the-table-8290886/)"
-> "They say practice makes
->  perfect. Well, then my pancakes are a testament to my unwavering commitment to imperfection." - *Anonymous*
+> "They say practice makes perfect. Well, then my chapatis are a testament to my unwavering commitment to imperfection." - *Anonymous*
 ## Classic Chapati Recipe
 Chapatis are delicious and versatile flatbreads that are a staple in Indian cuisine. Here's what you'll need to make them:
 ## Ingredients:

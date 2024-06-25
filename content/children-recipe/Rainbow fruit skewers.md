@@ -17,8 +17,9 @@ series:
 image: 
 caption: Image credit - [Pexel - frazzi](https://pixabay.com/photos/skewer-buffet-fruit-delicious-4866755/)
 ---
-
-> "Making iced tea with kids is like trying to paint a masterpiece while wearing a blindfold... and covered in sugar." - *Unknown*
+![Rainbow fruit skewers](fruit-skewers.webp)
+*Image credit - [Pexel - Ron Lach](https://www.pexels.com/photo/person-holding-a-stick-with-fresh-fruits-8937716/)*
+> - "This is the best fruit sword ever! Now, where's the dragon I need to fight?" - *Unknown*
 ## Allergens:
 - Fruits and their combination
 ## Story: Every adds everything to a party of life
@@ -40,8 +41,8 @@ From that day on, Lily saw the world as a giant fruit bowl – a place where eve
 ---
 
 ![Image credit - Ideogram - Vladimir Klimsa](HTLRXBEQRpGAbzDRtkJ9wQ.webp "[Image credit - Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/HTLRXBEQRpGAbzDRtkJ9wQ)")
-
-> "Forget pirates and buried treasure, the real adventure is finding all the missing tea bags after brewing with a crew of tiny pirates." - *Unknown*
+*Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/HTLRXBEQRpGAbzDRtkJ9wQ)*
+> "Look, Mom! I made a rainbow on a stick!" (Holding up a fruit skewer with colorful fruits) - *Unknown*
 ## Rainbow Fruit Skewers: A Fun and Healthy Snack for Kids!
 These Rainbow Fruit Skewers are bursting with color, flavor, and fun! This is a super simple recipe that even the littlest chefs can help make.
 ## Ingredients:

@@ -16,8 +16,10 @@ series:
 image: 
 caption: Image credit - [Pexel - Elina Fairytale](https://www.pexels.com/photo/photo-of-person-s-hand-pouring-liquid-to-cup-3807393/)
 ---
-
-> "Flipping pancakes is like life: you gotta be ready for anything to come flying back at you." - *Anonymous*
+# Tea
+![Tea](iced-tea.webp)
+Image credit - [Pexel - RDNE Stock project](https://www.pexels.com/photo/parents-with-a-little-son-sitting-at-the-table-in-a-restaurant-8208722/)
+> "I'm gonna pretend I'm having a tea party with the queen! Can I wear my princess dress?" - *Anonymous*
 ## Story: Whistling teapot
 Lily loved mornings. Not for the birds chirping, or the smell of pancakes, but because mornings meant one thing: tea time with Grandpa! Every morning, they'd sit at the kitchen table, Grandpa regaling her with stories of his childhood adventures while they sipped warm tea. The highlight, however, was the teapot. It wasn't just any teapot; this one whistled a jaunty little tune when the water boiled.
 One morning, Lily was particularly excited. Grandpa had promised to share a story about the time he accidentally dyed his beard purple while trying to recreate a magic potion (a story he swore was true, but Lily wasn't so sure). But today, something was different. The usual chirping of the birds was replaced by an unnerving silence. Lily peeked into the kitchen and gasped.
@@ -36,10 +38,10 @@ It turned out, the old teapot just needed a little nudge (and a slightly horrify
 And so, although the teapot's morning tune never quite returned to its original cheerful chirp, it gained a new reputation. Every time they needed to wake up Rosie, or just have a good laugh, Lily would pull out her little toy whistle and give the teapot a good, loud toot. The mornings, while a bit chaotic, were never dull again.
 
 ---
+![tea](tea.webp)
+*Image credit - [Pexel - Elina Fairytale](https://www.pexels.com/photo/photo-of-person-s-hand-pouring-liquid-to-cup-3807393/)*
 
-![Image credit - Pexel - HONG SON](pexels-cottonbro-6651178.webp "[Image credit - Pexel - HONG SON](https://www.pexels.com/photo/a-kid-opening-the-cover-of-the-tea-pot-6747312/)")
-
-> "They say practice makes perfect. Well, then my pancakes are a testament to my unwavering commitment to imperfection." - *Anonymous*
+> "Can I add some sprinkles to my tea? I think it needs a little sparkle!" - *Anonymous*
 ## The Perfect Cup of Tea: A Simple Guide
 Tea is a versatile beverage enjoyed around the world. Here's how to brew a delicious cup:
 ## Ingredients:
