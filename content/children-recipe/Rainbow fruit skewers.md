@@ -64,3 +64,4 @@ These Rainbow Fruit Skewers are bursting with color, flavor, and fun! This is a 
 * Get silly! Play some music and have a fruit skewer decorating contest.
 * Pre-cut the fruits beforehand for younger children or for a quicker prep time.
 * Rainbow Fruit Skewers are a great way to sneak in a variety of vitamins and nutrients.
+### [Index](content/children-recipe/Index.md)

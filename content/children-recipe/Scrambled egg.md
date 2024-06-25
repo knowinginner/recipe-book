@@ -12,15 +12,14 @@ tags:
   - spices
   - herbs
   - story
-categories:
-  - Course
-series:
-  - Course
+categories: 
+series: []
 image: 
 caption: Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/Halyc7i9SeiKCpNGUzUg_A)
 ---
 # Scrambled eggs
-![egg-spin.webp](egg-spin.webp "Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/Halyc7i9SeiKCpNGUzUg_A)")Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/Halyc7i9SeiKCpNGUzUg_A)
+![](scarmled-eggs.webp)
+*Image credit [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/QiSPITRlQLuFYWTKbMI0IA)*
 > "'See, I told you centrifugal force would make it fly!' - A child who clearly misunderstood science class, but having fun anyway. - *Unknown*
 ## Allergens:
 - Eggs
@@ -36,9 +35,7 @@ Maisie's eyes sparkled. She practiced spinning more eggs, giggling as some wobbl
 "Well, well, little chef," Grandma said, raising an eyebrow. "Looks like you've learned the secret!" From that day on, Maisie became the official egg-spinner, her breakfast-loving heart full of joy and the secret of the perfect spin!
 
 ---
-
-![Image credit - Ideogram - Faust](egg-spinning.webp "[Image credit - Ideogram - Faust](https://ideogram.ai/assets/image/lossless/response/pQaxDHYzTqG-l4U5hDDExQ)")
-Image credit - [Ideogram - Faust](https://ideogram.ai/assets/image/lossless/response/pQaxDHYzTqG-l4U5hDDExQ)
+![egg-spin.webp](egg-spin.webp "Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/Halyc7i9SeiKCpNGUzUg_A)")Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/Halyc7i9SeiKCpNGUzUg_A)
 > "'I bet nobody else at school can make their egg spin for a whole minute!' - A competitive child, already planning their bragging rights." - *Unknown*
 ## Recipe for Microwave Scrambled Eggs
 ## Ingredients:
@@ -68,4 +65,4 @@ Image credit - [Ideogram - Faust](https://ideogram.ai/assets/image/lossless/resp
 * Add on top of the egg spices such as sweet paprika or cut herbs such as thyme, rosemary, parsley, chives, cilantro, dill, basil, oregano or sage.
 * Add on top of the egg small tomatoes, nuts or other ingredients.
 * You can use food colorant to make the eggs color you like and observe how does it affect your appetite.
-### [DIY Cheese](DIY%20Cheese.md), [Soy bean sprout](Soy%20bean%20sprout.md)
+### [Index](content/children-recipe/Index.md)

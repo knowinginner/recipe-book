@@ -62,3 +62,4 @@ Tea is a versatile beverage enjoyed around the world. Here's how to brew a delic
 * Store loose leaf tea in an airtight container in a cool, dark place to preserve freshness.
 * Experiment with different types of tea to find your favorite!
 * You can use leftover brewed tea for iced tea. Simply steep the tea a little longer for a stronger flavor, then let it cool completely before serving over ice.
+### [Index](content/children-recipe/Index.md)

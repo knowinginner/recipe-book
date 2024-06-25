@@ -20,7 +20,7 @@ image:
 caption: Image credit - [Pexel - Daisy Anderson](https://www.pexels.com/photo/carved-potatoes-in-a-ceramic-tray-5581083/)
 ---
 
-## Alergens: 
+## Allergens: 
 - potato, 
 - butter, 
 - olive oil, 
@@ -69,3 +69,4 @@ Calling all junior chefs! Today, we're making a super quick and easy side dish â
 ## Option:
 -  Add your favorite toppings like butter, salt, pepper, cheese, sour cream, chives, or even shredded chicken.
 - Add your favorite spices
+### [Index](content/children-recipe/Index.md)

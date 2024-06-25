@@ -70,4 +70,4 @@ Growing soybean sprouts with your children is a fantastic way to:
 * **Bond over a fun and educational activity.**
 * **Celebrate the joy of cultivating your own food!**
 So, the next time you're looking for a fun and engaging activity with your kids, consider sprouting some soybean seeds! It's a rewarding experience that will leave them with a newfound appreciation for healthy, homegrown food.
-### [Scrambled egg](Scrambled%20egg.md), [DIY Cheese](DIY%20Cheese.md)
+### [Index](content/children-recipe/Index.md)

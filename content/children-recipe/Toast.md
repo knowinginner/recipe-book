@@ -17,7 +17,8 @@ series:
 image: 
 caption: Image credit - [Pexel Photo by cottonbro studio](https://www.pexels.com/photo/mother-and-daughter-making-a-sandwich-6651727/)
 ---
-
+![making a toast](toast.webp)
+*Image credit - [Pexel Photo by cottonbro studio](https://www.pexels.com/photo/mother-and-daughter-making-a-sandwich-6651727/)*
 > "Flipping pancakes is like life: you gotta be ready for anything to come flying back at you." - *Anonymous*
 ## Story: Burned toast
 Barnaby the Beagle had a nose for adventure, and his breakfast was no exception. Every morning, he'd watch with eager puppy eyes as his human, Emily, made toast. The aroma of warm bread filled the kitchen, driving Barnaby wild. Today, however, Emily was lost in a daydream, picturing herself as a daring pirate captain.
@@ -85,3 +86,4 @@ Toast is a simple yet versatile breakfast (or anytime!) staple. But travel the g
 So next time you reach for a piece of bread, get adventurous! Explore the world through toast and discover a whole new range of flavor combinations.
 ## Optional:
 - Drink: Chicory Coffee
+### [Index](content/children-recipe/Index.md)

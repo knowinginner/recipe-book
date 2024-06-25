@@ -16,9 +16,8 @@ series:
 image: 
 caption: Image credit - [Pexel - RDNE Stock project](https://www.pexels.com/photo/parents-with-a-little-son-sitting-at-the-table-in-a-restaurant-8208722/)
 ---
-Image credit - ![Pexel - RDNE Stock project](https://www.pexels.com/photo/parents-with-a-little-son-sitting-at-the-table-in-a-restaurant-8208722/)
-  
-
+![](iced-tea.jpeg)
+Image credit [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/YSLN-GbmSZ2Iz21KXqi9HA)
 > "Making iced tea with kids is like trying to paint a masterpiece while wearing a blindfold... and covered in sugar." - *Unknown*
 ## Allergens:
 - tea
@@ -68,3 +67,4 @@ This recipe uses a cold-brewing method, making it perfect for those mornings whe
 * **Hibiscus Iced Tea:** Use hibiscus tea bags or loose leaf hibiscus tea instead of black tea for a tart and refreshing iced tea.
 * **Unsweetened Iced Tea:** Omit the sugar entirely for a naturally sweet and slightly bitter iced tea.
 Enjoy your delicious and refreshing cold-brew iced tea!
+### [Index](content/children-recipe/Index.md)

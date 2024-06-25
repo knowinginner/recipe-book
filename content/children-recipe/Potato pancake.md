@@ -18,7 +18,8 @@ series:
 image: 
 caption: Image credit - [Pixabay - matthiasboeckell](https://pixabay.com/photos/pancake-food-meal-dish-snack-6416439/)
 ---
-
+![tossing pancake](tossing.webp)
+*Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/YqufLnPeT7Oi0IUlGnAceA)*
 > "Flipping pancakes is like life: you gotta be ready for anything to come flying back at you." - *Anonymous*
 ## Story: Lily's Tossing and Juggling Adventure
 Once upon a time, there was a curious little girl named Lily who loved to try new things. One sunny morning, she entered the kitchen, where her mom was busy making breakfast. Lily's eyes lit up at the sight of the pancake batter and the sizzling pan. She wanted to learn how to toss a pancake just like her mom did.
@@ -36,7 +37,8 @@ From that day on, Lily loved showing off her tossing and juggling skills to her 
 **So, remember, just like Lily, don't be afraid to try something new. Whether it's tossing pancakes or juggling balls, you too can discover your unique talents and create your own wonderful adventures!**
 
 ---
-
+![](potato-%20pancake.webp)
+*Image credit - [Pixabay - matthiasboeckell](https://pixabay.com/photos/pancake-food-meal-dish-snack-6416439/)*
 > "They say practice makes perfect. Well, then my pancakes are a testament to my unwavering commitment to imperfection." - *Anonymous*
 ## Ingredients
 - 2 cups raw potatoes, peeled and shredded
@@ -56,3 +58,4 @@ From that day on, Lily loved showing off her tossing and juggling skills to her 
 6. Serve warm with your favorite toppings or a cup of tea.
 ## Option:
 - Drink: Chicory Coffee
+### [Index](content/children-recipe/Index.md)

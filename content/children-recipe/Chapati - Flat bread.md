@@ -57,3 +57,4 @@ Chapatis are delicious and versatile flatbreads that are a staple in Indian cuis
 - If you don't have a rolling pin, you can use a flat-bottomed glass or plate to roll out the dough.
 - Leftover chapatis can be stored in an airtight container at room temperature for up to 2 days, or in the refrigerator for up to a week. Reheat them in a skillet or microwave before serving.
 - Drink: Chicory Coffee.
+### [Index](content/children-recipe/Index.md)

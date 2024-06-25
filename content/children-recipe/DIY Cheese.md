@@ -18,8 +18,9 @@ image:
 caption: Image credit - [Pexel - Konstantin Klimov](https://www.pexels.com/photo/cottage-cheese-on-plates-and-a-bowl-of-sour-cream-11281331/)
 ---
 # DIY Cheese from milk and lemon
-![Pexel - Konstantin Klimov](cheese01.webp)
-*Image credit - [Pexel - Konstantin Klimov](https://www.pexels.com/photo/cottage-cheese-on-plates-and-a-bowl-of-sour-cream-11281331/)*
+![girl-cheese](girl-cheese.webp)
+*Image credit [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/UnYPuBTLQtOLMP2qXCe4yQ)*
+
 > How can you tell someone's new to DIY cheese making? They keep asking, "Whey is this taking so long?" - *Unknown*
 ## Allergens:
 - Milk
@@ -51,6 +52,8 @@ Lily learned that day that cheese making wasn't as simple as milking a cloud, bu
 *Image credit - [Geminis - Faust](https://lh3.googleusercontent.com/fife/ALs6j_F1tG2ShssCpLSusBpwGed6ND5ix3GCisALfOf5Pv9AzM5pi38QtNIa4owDMO95nQYG9Hi48fR6GAQZnLk3kAaa922ywxMqb-WyODvkuLKb2AU_pWyJ07YMM7-bg7V405Ze-11XS1Nb7ldCR1ZxfHBDhsmspbH1EwY-3PyJMgRrcCR3ACGjWV2k3DkK0teaeJT9J7WJe7rGDqfyBJA89V6IcIkmVjZqXy8wP247YuOdHPkTLGf0RmX9sBYmcapMEUV7FbMsg2AuMAnDDvOgbDVi8suTDbQK5V4o7m49GA3yQn65_Zcx6fDwMyb9T4ul2nvkIOdPsGiVrk85-4kfa2e04e1Al02E0dUykp4iIpyyu1FhfatVg3fe28So2A0QpF2pz0txJfNpXcbnY2StX_S1l-TBmRJYPkCV5wNlVPKx5Y6KKngLZv58j7SAsP3i82RFgqARc116eCUlybGnjtHQGCV-lfTam_3WPtUaaXT6FxQZ4qYKvgtfD4Kx--I0jPzmqe_IZsHtjknn15y6BrAtTfBI6_6GWQUhKgbths3xjDUCFALdtkx9cGwvXtXGj5Jk50SFEM6fYOi4E157HaIlIcl8gkzoI8GbdsBI8Mio4IMHEW5YIeOByxrGXxukdK7MbF7To5AUJqsa-GPBROvX6wt6DQz3mgsklvauhVD1SpmQW2XXgUTE-LT4YFjSD0Vxm8bu3MNX9uNNcYhMavneMPsTWxf-BA6cQb4q_vkR9V1eKiXUwyxrsUXoIvYI52XANCNJUAXLvS_qGoOzEWCOF49cm_gdqeWEucULkHjHAKQaNP7661v0z9lvVAqCcqszV1LpX8QhuOGgUAj0ruXPpw-MxfVTXmWYR0bl45m5PvyhMiLDPZsqFAiDPW5ty-no_K6yFYwlqiCdPB6Hh5FGlpHCbi67J8IswffMbf2wKA3MnMq-FYouM2FIQHIhj3fqqu-Kae0W-M8MzmEWzr8P5BCjJ7UUnlpJRSxOw9yZneDAFxe8Xu8a6qEN179kN6KyShPYP2oA-FoSXnyT-KKATh_4A7ycx15sF4HM2vytQGTAsIkSy1LKFzUtXORGi4YkZU-dJumErXV10-B5rYpkN0hD1YR2B0u1ZAbnFlR14Uf8vOseOTtWWn10pt-lYcvIq02pDFKvsxzEK2gz6AFPQazN63uqiMhsnXpg2osJW9xIhRC4bo55eDeLy6cVfbOWpfAdklc1YJwWZdTmsLMdPrZOit3FbrCDsWeAhq0sN6Rc12SxCLiYwpFL9irD4J_xcfOi2b0Q3IL4UigDOHJp1SH6xZEzcFA6WqsWKsSzCfuNlNBmEkElbJ_-fl6P4ul0OsJVh3edP8lyFk47N0JfGnZ-9OItWVJj28E0zNKlo0DmhO9f=s512)
 > "What do you call a cheese that loves to sing? A mozzarella tenor!" - *Unknown*
 ## Make Your Own Mini Mozzarella!
+![Pexel - Konstantin Klimov](cheese01.webp)
+*Image credit - [Pexel - Konstantin Klimov](https://www.pexels.com/photo/cottage-cheese-on-plates-and-a-bowl-of-sour-cream-11281331/)*
 This recipe is a fun way to explore how cheese is made, but it's important to have an adult help you in the kitchen! Hot milk and sharp objects like knives can be dangerous.
 Here's what you'll need:
 ## Ingredients:
@@ -93,4 +96,4 @@ Remember, this cheese is best eaten fresh within a day or two.
 * You can add to milk herbs, raising, olives, sesame or other seed to add flavor
 * You can add food colorant to make your cheese the color you like.
 This is a simple recipe to get you started on your cheese making journey. There are many other types of cheese you can explore with an adult's help!
-### [Scrambled egg](Scrambled%20egg.md)
+### [Index](content/children-recipe/Index.md)

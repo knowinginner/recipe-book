@@ -18,5 +18,3 @@ longform:
   ignoredFiles:
     - manuscript
 ---
-1. [Scrambled egg](Scrambled%20egg.md)
-2. [SO[Soy bean sprout](Soy%20bean%20sprout.md) [DI[DIY Cheese](DIY%20Cheese.md)
