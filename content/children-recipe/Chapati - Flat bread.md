@@ -1,5 +1,5 @@
 ---
-title: 🧩 Chapati
+title: Chapati
 description: 
 summary: 
 date: 2023-10-12T00:00:00Z
@@ -19,8 +19,8 @@ series:
 image: 
 caption: Image credit - [Pexel - Sandra Filipe](https://www.pexels.com/photo/bread-food-healthy-wood-6183634/)
 ---
-
-
+![](chapati.jpeg)
+*Image credit [ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/MhbRSBo4S2WbNkRCHWHm3w)*
 > "Flipping pancakes is like life: you gotta be ready for anything to come flying back at you." - *Anonymous*
 ## Story: Timmy making Chapati
 Once upon a time, there lived a curious little boy named Timmy. He loved spending time with his grandmother, who always seemed to be cooking up something delicious in the kitchen. One day, as the sun shone brightly through the window, Timmy watched as his grandmother skillfully kneaded dough for chapatis, the soft flour clouding the air as she worked.
