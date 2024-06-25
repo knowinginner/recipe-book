@@ -1,5 +1,5 @@
 ---
-title: DIY CHEESE
+title: DIY cheese
 description: 
 summary: 
 date: 2023-10-12T00:00:00Z
@@ -7,13 +7,17 @@ lastmod: 2023-10-12T00:00:00Z
 url: 
 authors:
   - Klimsa Vladimir
-tags: 
+tags:
+  - cheese
+  - milk
+  - lemon
+  - story
 categories: 
 series: 
 image: 
 caption: Image credit - [Pexel - Konstantin Klimov](https://www.pexels.com/photo/cottage-cheese-on-plates-and-a-bowl-of-sour-cream-11281331/)
 ---
-# DIY CHEESE FROM MILK AND LEMON
+# DIY Cheese from milk and lemon
 ![Pexel - Konstantin Klimov](cheese01.webp)
 *Image credit - [Pexel - Konstantin Klimov](https://www.pexels.com/photo/cottage-cheese-on-plates-and-a-bowl-of-sour-cream-11281331/)*
 > How can you tell someone's new to DIY cheese making? They keep asking, "Whey is this taking so long?" - *Unknown*

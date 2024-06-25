@@ -1,41 +1,25 @@
 ---
-
-title: EGG SPINNING
-
-description: BY UNDERSTANDING HOW LOCATION, DIRECTION, AND MOVEMENT INFLUENCE OUR INNER VOICE AND SENSATIONS, WE CAN MAKE MORE CONSCIOUS AND INFORMED DECISIONS BASED ON OUR INTERNAL STATE.
-
-summary: Location, movement, speed, direction
-
-date: "2023-10-12T00:00:00Z"
-
-# Date updated
-
-lastmod: "2023-10-12T00:00:00Z"
-
-url:
-
+title: Scrambled egg
+description: 
+summary: 
+date: 2023-10-12T00:00:00Z
+lastmod: 2023-10-12T00:00:00Z
+url: 
 authors:
-
-- Klimsa Vladimir
-
+  - Klimsa Vladimir
 tags:
-
-- Toast
-
+  - egg
+  - spices
+  - herbs
+  - story
 categories:
-
-- Course
-
+  - Course
 series:
-
-- Course
-
-image:
-
+  - Course
+image: 
 caption: Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/Halyc7i9SeiKCpNGUzUg_A)
-
 ---
-# SCRAMBLED EGG
+# Scrambled eggs
 ![egg-spin.webp](egg-spin.webp "Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/Halyc7i9SeiKCpNGUzUg_A)")Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/Halyc7i9SeiKCpNGUzUg_A)
 > "'See, I told you centrifugal force would make it fly!' - A child who clearly misunderstood science class, but having fun anyway. - *Unknown*
 ## Allergens:

@@ -5,11 +5,11 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - DIY CHEESE.md
-    - SOY BEAN SPROUT.md
+    - DIY Cheese
+    - Soy bean sprout
     - Scrambled egg
-  ignoredFiles: []
+  ignoredFiles:
+    - manuscript
 ---
 1. [Scrambled egg](Scrambled%20egg.md)
-2. [SOY BEAN SPROUT.md](SOY%20BEAN%20SPROUT.md.md)
-3. [DIY CHEESE.md](DIY%20CHEESE.md.md)
+2. [SO[Soy bean sprout](Soy%20bean%20sprout.md) [DI[DIY Cheese](DIY%20Cheese.md)
