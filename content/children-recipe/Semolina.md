@@ -38,7 +38,7 @@ Maisie beamed. From that day on, semolina breakfasts were a thing of the past. B
 ---
 ![semolina1](semolina1.webp)
 *Image credit - [Pixabay - Angelica Vaihel](https://pixabay.com/photos/bowls-semolina-milk-dessert-sweet-6405538/)*
-> "They say practice makes perfect. Well, then my pancakes are a testament to my unwavering commitment to imperfection." - *Anonymous*
+> "They say practice makes perfect. Well, then my semolina is a testament to my unwavering commitment to imperfection." - *Anonymous*
 ## Sunshine Semolina Pudding 
 This recipe is a fun twist on classic semolina pudding, perfect for a bright and cheerful breakfast!
 ## Ingredients:
