@@ -15,10 +15,11 @@ tags:
 categories: 
 series: 
 image: 
-caption: Image credit - [Pixabay - matthiasboeckell](https://pixabay.com/photos/pancake-food-meal-dish-snack-6416439/)
+caption: Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/gk2vHfaQQFeNRsP_R3wxNA)
 ---
-![floating raisins](raisins.webp)
-Image credit - [Youtube - Vladimir Klimsa](https://www.youtube.com/watch?v=AMTx45jUydQ&t=41s)
+![raisins1](raisins1.webp)
+Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/gk2vHfaQQFeNRsP_R3wxNA)
+
 > - "Look at me, I'm a raisin astronaut floating in space bubbles!" - *Anonymous*
 ## Allergens:
 - Raisins
@@ -40,7 +41,8 @@ Lily returned, her face beaming. She took a sip of the fun-filled glass, watchin
 Lily set the glass on the picnic table under the bright sun. Raisin and Rosie continued their adventure, forever grateful for the bubbly water that showed them a world beyond the pantry shelf. The end!
 
 ---
-
+![floating raisins](raisins.webp)
+Image credit - [Youtube - Vladimir Klimsa](https://www.youtube.com/watch?v=AMTx45jUydQ&t=41s)
 > "What did one raisin say to another raisin after they went for a swim in sparkling water? That was the most unraisin-able experience of my life!" - *Anonymous*
 ## Let's make some **Sparkly Raisin Racers**!
 ## Ingredients:

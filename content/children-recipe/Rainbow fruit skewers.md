@@ -17,8 +17,8 @@ series:
 image: 
 caption: Image credit - [Pexel - frazzi](https://pixabay.com/photos/skewer-buffet-fruit-delicious-4866755/)
 ---
-![Rainbow fruit skewers](fruit-skewers.webp)
-*Image credit - [Pexel - Ron Lach](https://www.pexels.com/photo/person-holding-a-stick-with-fresh-fruits-8937716/)*
+![skewer](skewer.webp)
+*Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/8_WPsKC3Tdu0eAhVFmwktQ)*
 > - "This is the best fruit sword ever! Now, where's the dragon I need to fight?" - *Unknown*
 ## Allergens:
 - Fruits and their combination
@@ -40,8 +40,9 @@ From that day on, Lily saw the world as a giant fruit bowl – a place where eve
 
 ---
 
-![Image credit - Ideogram - Vladimir Klimsa](HTLRXBEQRpGAbzDRtkJ9wQ.webp "[Image credit - Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/HTLRXBEQRpGAbzDRtkJ9wQ)")
-*Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/HTLRXBEQRpGAbzDRtkJ9wQ)*
+![Rainbow fruit skewers](fruit-skewers.webp)
+*Image credit - [Pexel - Ron Lach](https://www.pexels.com/photo/person-holding-a-stick-with-fresh-fruits-8937716/)*
+
 > "Look, Mom! I made a rainbow on a stick!" (Holding up a fruit skewer with colorful fruits) - *Unknown*
 ## Rainbow Fruit Skewers: A Fun and Healthy Snack for Kids!
 These Rainbow Fruit Skewers are bursting with color, flavor, and fun! This is a super simple recipe that even the littlest chefs can help make.

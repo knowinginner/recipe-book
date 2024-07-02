@@ -13,13 +13,14 @@ tags:
   - herbs
   - story
 categories: 
-series: []
+series: 
 image: 
-caption: Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/Halyc7i9SeiKCpNGUzUg_A)
+caption:
 ---
 # Scrambled eggs
-![](scarmled-eggs.webp)
-*Image credit [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/QiSPITRlQLuFYWTKbMI0IA)*
+![scrambled](scrambled.webp)
+*Image credit [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/pw7neYJ3QO2MHUhjoIyJJA)*
+
 > - "Ew, my eggs look like scrambled brains! Are they gonna make me smarter?" - *Unknown*
 ## Allergens:
 - Eggs

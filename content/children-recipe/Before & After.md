@@ -12,8 +12,10 @@ tags:
 categories: 
 series: 
 image: 
-caption: Image credit - [Pixabay - matthiasboeckell](https://pixabay.com/photos/pancake-food-meal-dish-snack-6416439/)
+caption:
 ---
+![washing](washing.webp)
+*Image credit [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/-OGwYGA_SH-SfgahOXEdVw)*
 
 > "Offer your freshly made food first to dog or to cat and observe their reaction." - *Anonymous*
 ## Story: Lily's Magical kitchen apron

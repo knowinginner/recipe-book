@@ -19,6 +19,7 @@ caption: Image credit - [Pexel Photo by cottonbro studio](https://www.pexels.com
 ---
 ![making a toast](toast.webp)
 *Image credit - [Pexel Photo by cottonbro studio](https://www.pexels.com/photo/mother-and-daughter-making-a-sandwich-6651727/)*
+
 > "Can I have my toast cut into a dinosaur shape with a volcano of jam in the middle?" - *Anonymous*
 ## Story: Burned toast
 Barnaby the Beagle had a nose for adventure, and his breakfast was no exception. Every morning, he'd watch with eager puppy eyes as his human, Emily, made toast. The aroma of warm bread filled the kitchen, driving Barnaby wild. Today, however, Emily was lost in a daydream, picturing herself as a daring pirate captain.
