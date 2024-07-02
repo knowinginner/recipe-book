@@ -16,7 +16,7 @@ tags:
 categories: 
 series: 
 image: 
-caption: Image credit - [Pixabay - matthiasboeckell](https://pixabay.com/photos/pancake-food-meal-dish-snack-6416439/)
+caption:
 ---
 ![tossing pancake](tossing.webp)
 *Image credit - [Ideogram - Vladimir Klimsa](https://ideogram.ai/assets/image/lossless/response/YqufLnPeT7Oi0IUlGnAceA)*
@@ -45,6 +45,8 @@ From that day on, Lily loved showing off her tossing and juggling skills to her 
 - 1 medium yellow onion, finely diced
 - 3 cloves garlic, minced
 - 1 tbsp dried marjoram
+- 1 egg
+- 1/2 cup of flour
 - 1/2 tsp salt
 - 1 tsp ground black pepper
 - 1/3 cup unsweetened almond milk (or any non-dairy milk/water)
