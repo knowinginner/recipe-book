@@ -18,3 +18,4 @@ longform:
   ignoredFiles:
     - manuscript
 ---
+![cover](cover.webp "image credit - Ideogram - Vladimir Klimsa")
